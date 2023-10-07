@@ -1,6 +1,6 @@
-# live_streaming_app
+# Live Streaming App
 
-A new Flutter project.
+This is a livestreaming app built using flutter & zegocloud.
 
 ## Getting Started
 
